@@ -1,2 +1,2 @@
 # Who-Am-I-CCC-github.io
-oops I.. Did it again
+Basic Who Am I Project. About Me and Interesting Stuff.
