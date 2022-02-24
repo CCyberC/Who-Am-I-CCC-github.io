@@ -1,8 +1,8 @@
 # Who-Am-I-CCC-github.io
 Basic Who Am I Project. About Me and Interesting Stuff.
 <div>
-Date Started: February 16
+[2022/02/16] Date Started
 <div>
-Last Modified: 2022/02/24
+[2022/02/24] Last Modified
 <div>
-Author: CCyberC
+[CCyberC] Author
