@@ -7,8 +7,9 @@ Basic Who Am I Project. About Me and Interesting Stuff.
 <div>
 [CCyberC] Author
 <div>
+To Do:
 <div>
-<ol>
+<ul>
   <li>
   <li>
   <li>
@@ -18,5 +19,5 @@ Basic Who Am I Project. About Me and Interesting Stuff.
   <li>
   <li>
   <li>
-  <li> 
-</ol>
+  <li>
+</ul>
