@@ -13,43 +13,120 @@
 
     <style>
       body {
-        background-image: url(https://cdn.wallpapersafari.com/88/99/IgZeb0.jpg);
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
+        background-image: url(https://cdn.wallpapersafari.com/88/99/IgZeb0.jpg); /* The image used for background*/
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-position: center; /* Center the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
       }
 
+      .container {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+      }
+
+      .image-container {
+        text-align: center;
+        width: 100%;
+      }
+
+      .links-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+      }
+
+      .link {
+        min-width: 50% !important;
+      }
+
+      @media (min-width: 1200px) {
+        .container {
+          max-width: 1140px;
+        }
+      }
+      @media (min-width: 992px) {
+        .container {
+          max-width: 960px;
+        }
+      }
+      @media (min-width: 768px) {
+        .container {
+          max-width: 720px;
+        }
+
+        .link {
+          width: 100%;
+        }
+      }
+      @media (min-width: 576px) {
+        .container {
+          max-width: 540px;
+        }
+      }
+
+      .w3-yellow,
+      .w3-hover-purple:hover,
+      .w3-text-black {
+        color: rgba(240, 255, 255) !important;
+        background-color: rgba(169, 169, 169) !important;
+      }
     </style>
   </head>
 
-  <body>
-    <header>
-      <h1 style="font-size:2vw">Who Am I?</h1>
-    </header>
-    <section> <h3 style="font-size:1.4vw">Index</h3>
-      <article>
-        <ol>
-          <li style="font-size:1vw"> Career Plans and Interests <a href="childPages/Career Plans and Interests.html" target="">Click Here</a>
-          <li style="font-size:1vw"> Basic Information <a href="childPages/Basic Information.html" target="">Click Here</a>
-          <li style="font-size:1vw"> Personal Information <a href="childPages/Personal Information.html" target="">Click Here</a>
-          <li style="font-size:1vw"> Hobbies <a href="childPages/Hobbies.html" target="">Click Here</a>
-          <li style="font-size:1vw"> Other Interests <a href="childPages/Other Interests.html" target="">Click Here</a>
-          <li style="font-size:1vw"> Planning <a href="childPages/Planning.html" target="">Click Here</a>
-          <li style="font-size:1vw"> Planning2 <a href="childPages/Planning.html" target="">Click Here</a>
-        </ol>
-      </article>
-    </section>
-    <section>
-      <!-- Date Accessed: 20220225-->
-      <img src="https://c.tenor.com/DqeQCAMjhO0AAAAM/cartoon-what.gif" title="wuuut" style="max-width:40%;height:auto">
-    </section>
+  <body class="w3-white">
+    <!-- Content container -->
+    <div class="container">
+      <!-- Image and name container. Change to your picture here. -->
+      <div class="image-container">
+        <img
+          src="https://c.tenor.com/DqeQCAMjhO0AAAAM/cartoon-what.gif"
+          class="w3-margin"
+          max-width="40%"
+          height="auto"
+          style="border-radius: 30%"
+        />
+
+        <!-- Content. Add bio. -->
+        <div class="w3-text-grey">
+          <p class="w3-large"><strong>Who Am I?</strong></p>
+        </div>
+
+        <!-- Links section 1. Replace the # inside of the "" with your links. -->
+        <div class="links-container">
+          <a href="childPages/Career Plans and Interests.html" class="w3-button w3-hover-black w3-small w3-round-xlarge w3-yellow link" target="_blank">Career Plans and Interests</a>
+          <a href="childPages/Basic Information.html" class="w3-button w3-hover-black w3-small w3-round-xlarge w3-yellow link" target="_blank">Basic Information</a>
+          <a href="childPages/Personal Information.html" class="w3-button w3-hover-black w3-small w3-round-xlarge w3-yellow link" target="_blank">Personal Information</a>
+          <a href="childPages/Hobbies.html" class="w3-button w3-hover-black w3-small w3-round-xlarge w3-yellow link" target="_blank">Hobbies</a>
+          <a href="childPages/Other Interests.html" class="w3-button w3-hover-black w3-small w3-round-xlarge w3-yellow link" target="_blank">Other Interests</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Blog entry. Change the text and link to your most recent post. -->
+    <div class="w3-content w3-padding-32 w3-center" style="padding-right: 10px; padding-left: 10px; max-width: 600px">
+      <p class="w3-text-grey"><strong>About Me:</strong></p>
+      <p class="w3-text-grey">
+        50 Word Description of self and/or images
+      </p>
+      <div class="w3-row">
+        <div class="w3-col m8 s12">
+        </div>
+        <div class="w3-col m4 w3-hide-small">
+        </div>
+      </div>
+      <footer>
+        <blockquote cite="https://genius.com/Rick-astley-never-gonna-give-you-up-lyrics"><!-- Date Accessed 20220223--></blockquote>
+        <p>
+          <strong>Never Gonna Give You Up</strong>
+          <em>- <a href="https://genius.com/Rick-astley-never-gonna-give-you-up-lyrics" target="_blank">Rick Astley</a></em>
+        </p>
+        <p>&copy CCyberC, powered by CCyberC in GitHub</p>
+      </footer>
+    </div>
   </body>
-  <footer>
-    <blockquote cite="https://genius.com/Rick-astley-never-gonna-give-you-up-lyrics"><!-- Date Accessed 20220223--></blockquote>
-    <p>
-      <strong>Never Gonna Give You Up</strong>
-      <em>- <a href="https://genius.com/Rick-astley-never-gonna-give-you-up-lyrics" target="_blank">Rick Astley</a></em>
-    </p>
-    <p>&copy CCyberC, powered by CCyberC in GitHub</p>
-  </footer>
 </html>
