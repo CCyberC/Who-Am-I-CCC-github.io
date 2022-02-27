@@ -11,14 +11,12 @@ Basic Who Am I Project. About Me and Interesting Stuff.
 To Do:
 <div>
 <ul>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
+  <li> Memes,funny images, funny videos, funny audioclips
+  <li> Simple Background
+  <br>
+  <li> Organization:
+  <li> Main Page;
+  <li> Title box at top, links to other pages at far left, Welcoming image on right, footer bottom
+  <li> Accompanying Pages;
+  <li> Title box at top, Content and media as custom, footer at bottom
 </ul>
