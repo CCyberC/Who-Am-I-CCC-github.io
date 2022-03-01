@@ -9,7 +9,6 @@ Basic Who Am I Project. About Me and Interesting Stuff.
 <br>
 To Do List:
   <ul>
-    <li> Case Study [need to be done?]
     <li> Create Respository [done]
     <li> Name.github.io, Description, add ReadMe file, make public [done]
     <li> Create files - Images, index.html, childPages, etc [done]
@@ -20,8 +19,8 @@ To Do List:
     <li> Footer quote [done]
     <li> Content index and 5 other pages [done]
     <li> Images 3 types [need to be done?]
-    <li> Video [need to be done?]
-    <li> Auditory Media [done]
+    <li> Video [done]
+    <li> Auditory Media [need to be done?]
     <li> Put URL and Date Accessed on all external content AKA boilerplates [need to be done?]
     <li> Edit with flexbox and adjust DIV layout [done]
   </ul>
