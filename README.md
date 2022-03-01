@@ -9,7 +9,6 @@ Basic Who Am I Project. About Me and Interesting Stuff.
 <br>
 To Do List:
   <ul>
-    <li> Case Study [need to be done?]
     <li> Create Respository [done]
     <li> Name.github.io, Description, add ReadMe file, make public [done]
     <li> Create files - Images, index.html, childPages, etc [done]
