@@ -22,6 +22,6 @@ To Do List:
     <li> Auditory Media [optional]
     <li> Put URL and Date Accessed on all external content AKA boilerplates [done?]
     <li> Edit with flexbox and adjust DIV layout [done]
-    <li> Put subscripts and superscripts [optional]
+    <li> Put subscripts and superscripts [done]
     <li> Interactive text [optional]
   </ul>
