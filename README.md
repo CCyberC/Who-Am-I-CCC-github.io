@@ -13,7 +13,7 @@ To Do List:
     <li> Create Respository [done]
     <li> Name.github.io, Description, add ReadMe file, make public [done]
     <li> Create files - Images, index.html, childPages, etc [done]
-    <li> Add boilerplate [done]
+    <li> Add boilerplate and C symbol with author[done]
     <li> 50 word description of myself AKA About Me [done]
     <li> 50 word description of my Career Plans [done]
     <li> Key Words [need to be done?]
@@ -23,5 +23,5 @@ To Do List:
     <li> Video [need to be done?]
     <li> Auditory Media [done]
     <li> Put URL and Date Accessed on all external content AKA boilerplates [need to be done?]
-    <li>
+    <li> Edit with flexbox and adjust DIV layout [done]
   </ul>
