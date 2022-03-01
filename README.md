@@ -15,7 +15,7 @@ To Do List:
     <li> Add boilerplate and C symbol with author[done]
     <li> 50 word description of myself AKA About Me [done]
     <li> 50 word description of my Career Plans [done]
-    <li> Key Words [need to be done?]
+    <li> Key Words [done]
     <li> Footer quote [done]
     <li> Content index and 5 other pages [done]
     <li> Images 3 types [need to be done?]
