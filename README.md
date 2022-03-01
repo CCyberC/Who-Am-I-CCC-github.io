@@ -7,4 +7,20 @@ Basic Who Am I Project. About Me and Interesting Stuff.
 <div>
 [CCyberC] Author
 <br>
-w
+To Do List:
+  <ul>
+    <li> Create Respository
+    <li> Name.github.io, Description, add ReadMe file, make public
+    <li> 
+    <li>
+    <li>
+    <li>
+    <li>
+    <li>
+    <li>
+    <li>
+    <li>
+    <li>
+    <li>
+    <li>
+  </ul>
