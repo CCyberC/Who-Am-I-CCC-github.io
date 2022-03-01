@@ -9,16 +9,16 @@ Basic Who Am I Project. About Me and Interesting Stuff.
 <br>
 To Do List:
   <ul>
-    <li> Case Study
-    <li> Create Respository
-    <li> Name.github.io, Description, add ReadMe file, make public
-    <li> Create files - Images, index.html, childPages, etc
-    <li> Add boilerplate
-    <li> 50 word description of myself AKA About Me
-    <li> 50 word description of my Career Plans
+    <li> Case Study <_need to be done?>
+    <li> Create Respository <done>
+    <li> Name.github.io, Description, add ReadMe file, make public <done>
+    <li> Create files - Images, index.html, childPages, etc <done>
+    <li> Add boilerplate <done>
+    <li> 50 word description of myself AKA About Me <done>
+    <li> 50 word description of my Career Plans <done>
+    <li> Key Words <need ot be done?>
+    <li> Footer quote <done>
     <li> 
-    <li>
-    <li>
     <li>
     <li>
     <li>
