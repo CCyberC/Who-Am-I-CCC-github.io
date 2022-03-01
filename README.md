@@ -22,6 +22,6 @@ To Do List:
     <li> Images 3 types [need to be done?]
     <li> Video [need to be done?]
     <li> Auditory Media [done]
-    <li> Put URL and Date Accessed on all external content AKA boilerplates []
+    <li> Put URL and Date Accessed on all external content AKA boilerplates [need to be done?]
     <li>
   </ul>
